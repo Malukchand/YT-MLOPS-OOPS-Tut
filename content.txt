@@ -9,7 +9,12 @@
   >debugging
   >easy to colab
 5. end to end project(chatbook class)
+  > function vs methods
+  > self
+  > magic method or dunner methods
+
   > encapsulation
   > getter and setter
   > staticc method
   
+  > inheritance
